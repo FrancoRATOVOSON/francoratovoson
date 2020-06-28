@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/francoratovoson/static/css/main.ffae1438.chunk.css",
+    "main.js": "/francoratovoson/static/js/main.e4f7cbb4.chunk.js",
+    "main.js.map": "/francoratovoson/static/js/main.e4f7cbb4.chunk.js.map",
+    "runtime-main.js": "/francoratovoson/static/js/runtime-main.5e0a238c.js",
+    "runtime-main.js.map": "/francoratovoson/static/js/runtime-main.5e0a238c.js.map",
+    "static/js/2.6b88b9c9.chunk.js": "/francoratovoson/static/js/2.6b88b9c9.chunk.js",
+    "static/js/2.6b88b9c9.chunk.js.map": "/francoratovoson/static/js/2.6b88b9c9.chunk.js.map",
+    "index.html": "/francoratovoson/index.html",
+    "precache-manifest.c93867e87152c2a472a73dc42ee8eed7.js": "/francoratovoson/precache-manifest.c93867e87152c2a472a73dc42ee8eed7.js",
+    "service-worker.js": "/francoratovoson/service-worker.js",
+    "static/css/main.ffae1438.chunk.css.map": "/francoratovoson/static/css/main.ffae1438.chunk.css.map",
+    "static/js/2.6b88b9c9.chunk.js.LICENSE.txt": "/francoratovoson/static/js/2.6b88b9c9.chunk.js.LICENSE.txt",
+    "static/media/Pro.png": "/francoratovoson/static/media/Pro.0ecae014.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0a238c.js",
+    "static/js/2.6b88b9c9.chunk.js",
+    "static/css/main.ffae1438.chunk.css",
+    "static/js/main.e4f7cbb4.chunk.js"
+  ]
+}
